@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "text": "Hidup itu seperti sepeda. Agar tetap seimbang, kamu harus terus bergerak.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 2,
+    "text": "Jangan pernah menyerah pada impianmu. Sekecil apapun usaha yang kita lakukan, itu akan bermakna.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 3,
+    "text": "Keberhasilan bukan tentang seberapa cepat kita mencapai tujuan, tetapi tentang seberapa konsisten kita berusaha.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 4,
+    "text": "Jangan takut gagal. Takutlah tidak pernah mencoba sama sekali.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 5,
+    "text": "Setiap kesulitan pasti ada hikmahnya. Percayalah bahwa Tuhan tidak akan memberikan cobaan melebihi kemampuan kita.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 6,
+    "text": "Mimpi bukanlah sesuatu yang kita lihat saat tidur, tetapi sesuatu yang membuat kita tidak bisa tidur.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 7,
+    "text": "Jangan pernah meremehkan kekuatan doa dan usaha. Keduanya adalah kunci untuk mencapai segala sesuatu.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 8,
+    "text": "Keberanian bukanlah tentang tidak merasa takut, tetapi tentang melakukan yang benar meskipun takut.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 9,
+    "text": "Hidup ini singkat untuk menyia-nyiakan waktu dengan hal-hal yang tidak bermakna.",
+    "author": "Tere Liye"
+  },
+  {
+    "id": 10,
+    "text": "Orang yang berhenti belajar adalah orang yang berhenti berkembang.",
+    "author": "Albert Einstein"
+  },
+  {
+    "id": 11,
+    "text": "Kesuksesan bukanlah kunci kebahagiaan. Kebahagiaanlah yang menjadi kunci kesuksesan.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "id": 12,
+    "text": "Jangan biarkan kegagalan menghentikanmu. Biarkan kegagalan mengajarimu.",
+    "author": "Unknown"
+  },
+  {
+    "id": 13,
+    "text": "Masa depan adalah milik mereka yang percaya pada keindahan mimpi mereka.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 14,
+    "text": "Satu-satunya batasan untuk pencapaian masa depan kita adalah keraguan kita saat ini.",
+    "author": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 15,
+    "text": "Lakukan apa yang kamu bisa, dengan apa yang kamu miliki, di mana pun kamu berada.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 16,
+    "text": "Jangan hitung harimu, buatlah harimu berarti.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "id": 17,
+    "text": "Kesempatan tidak datang dengan sendirinya. Kamu yang menciptakannya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 18,
+    "text": "Hidup adalah 10% apa yang terjadi padamu dan 90% bagaimana kamu meresponnya.",
+    "author": "Charles R. Swindoll"
+  },
+  {
+    "id": 19,
+    "text": "Jadilah perubahan yang ingin kamu lihat di dunia.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 20,
+    "text": "Kegagalan adalah bumbu yang memberi rasa pada kesuksesan.",
+    "author": "Truman Capote"
+  },
+  {
+    "id": 21,
+    "text": "Kamu tidak pernah terlalu tua untuk menetapkan tujuan baru atau bermimpi baru.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "id": 22,
+    "text": "Sukses adalah berjalan dari kegagalan ke kegagalan tanpa kehilangan semangat.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 23,
+    "text": "Percayalah kamu bisa dan kamu sudah setengah jalan.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "id": 24,
+    "text": "Satu-satunya cara untuk melakukan pekerjaan hebat adalah dengan mencintai apa yang kamu lakukan.",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 25,
+    "text": "Jangan tunda sampai besok apa yang bisa kamu lakukan hari ini.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "id": 26,
+    "text": "Kesuksesan bukan akhir, kegagalan bukan fatal. Yang terpenting adalah keberanian untuk melanjutkan.",
+    "author": "Winston Churchill"
+  },
+  {
+    "id": 27,
+    "text": "Bermimpilah setinggi langit. Jika kamu jatuh, kamu akan jatuh di antara bintang-bintang.",
+    "author": "Unknown"
+  },
+  {
+    "id": 28,
+    "text": "Hidup bukan tentang menemukan dirimu sendiri. Hidup adalah tentang menciptakan dirimu sendiri.",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "id": 29,
+    "text": "Kualitas hidupmu adalah kualitas dari pikiranmu.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "id": 30,
+    "text": "Jangan takut melepaskan yang baik demi mencapai yang hebat.",
+    "author": "John D. Rockefeller"
+  },
+  {
+    "id": 31,
+    "text": "Tindakan adalah kunci fundamental untuk semua kesuksesan.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "id": 32,
+    "text": "Kesabaran adalah kemenangan. Sabar bukan berarti pasrah, tapi berusaha dengan tenang.",
+    "author": "Unknown"
+  },
+  {
+    "id": 33,
+    "text": "Banyak kegagalan dalam hidup ini adalah dari orang-orang yang tidak menyadari betapa dekatnya mereka dengan kesuksesan saat mereka menyerah.",
+    "author": "Thomas Edison"
+  },
+  {
+    "id": 34,
+    "text": "Pikiran itu segalanya. Apa yang kamu pikirkan, itulah yang akan kamu jadi.",
+    "author": "Buddha"
+  },
+  {
+    "id": 35,
+    "text": "Jangan biarkan apa yang tidak bisa kamu lakukan mengganggu apa yang bisa kamu lakukan.",
+    "author": "John Wooden"
+  },
+  {
+    "id": 36,
+    "text": "Semua impian kita bisa menjadi kenyataan jika kita memiliki keberanian untuk mengejarnya.",
+    "author": "Walt Disney"
+  },
+  {
+    "id": 37,
+    "text": "Kesempatan seringkali datang menyamar sebagai masalah.",
+    "author": "Unknown"
+  },
+  {
+    "id": 38,
+    "text": "Jangan menilai kesuksesan dari seberapa tinggi kamu naik, tapi dari seberapa baik kamu bangkit saat jatuh.",
+    "author": "Unknown"
+  },
+  {
+    "id": 39,
+    "text": "Tidak ada rahasia untuk sukses. Itu adalah hasil dari persiapan, kerja keras, dan belajar dari kegagalan.",
+    "author": "Colin Powell"
+  },
+  {
+    "id": 40,
+    "text": "Bangun pagi, bekerja keras, dan temukan emas.",
+    "author": "Lorii Myers"
+  },
+  {
+    "id": 41,
+    "text": "Jalan menuju sukses selalu dalam konstruksi.",
+    "author": "Lily Tomlin"
+  },
+  {
+    "id": 42,
+    "text": "Kamu adalah satu-satunya yang bisa membatasi kebesaranmu.",
+    "author": "Unknown"
+  },
+  {
+    "id": 43,
+    "text": "Keinginan adalah bahan bakar untuk jiwa. Teruslah menginginkan sesuatu yang lebih baik.",
+    "author": "Unknown"
+  },
+  {
+    "id": 44,
+    "text": "Keberanian adalah ketakutan yang telah berdoa.",
+    "author": "Unknown"
+  },
+  {
+    "id": 45,
+    "text": "Jadilah seperti bunga yang memberikan keindahan meskipun sering diterpa angin.",
+    "author": "Unknown"
+  },
+  {
+    "id": 46,
+    "text": "Tidak ada yang tidak mungkin bagi mereka yang mau berusaha.",
+    "author": "Unknown"
+  },
+  {
+    "id": 47,
+    "text": "Jangan bandingkan hidupmu dengan orang lain. Kamu tidak tahu perjalanan mereka.",
+    "author": "Unknown"
+  },
+  {
+    "id": 48,
+    "text": "Setiap hari adalah kesempatan baru untuk menjadi lebih baik.",
+    "author": "Unknown"
+  },
+  {
+    "id": 49,
+    "text": "Kegagalan adalah guru terbaik. Belajarlah darinya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 50,
+    "text": "Jangan pernah berhenti bermimpi. Mimpi adalah awal dari segalanya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 51,
+    "text": "Hiduplah seolah-olah kamu akan mati besok. Belajarlah seolah-olah kamu akan hidup selamanya.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "id": 52,
+    "text": "Kesalahan adalah bukti bahwa kamu sedang berusaha.",
+    "author": "Unknown"
+  },
+  {
+    "id": 53,
+    "text": "Jadilah versi terbaik dari dirimu sendiri, bukan versi kedua dari orang lain.",
+    "author": "Judy Garland"
+  },
+  {
+    "id": 54,
+    "text": "Kebahagiaan bukanlah sesuatu yang siap pakai. Itu datang dari tindakanmu sendiri.",
+    "author": "Dalai Lama"
+  },
+  {
+    "id": 55,
+    "text": "Jangan biarkan kemarin memakan terlalu banyak hari ini.",
+    "author": "Will Rogers"
+  },
+  {
+    "id": 56,
+    "text": "Satu-satunya tempat di mana kesuksesan datang sebelum kerja adalah dalam kamus.",
+    "author": "Vidal Sassoon"
+  },
+  {
+    "id": 57,
+    "text": "Terkadang kamu harus tersesat untuk menemukan dirimu sendiri.",
+    "author": "Unknown"
+  },
+  {
+    "id": 58,
+    "text": "Jangan takut untuk memulai kembali. Ini adalah kesempatan untuk membangun sesuatu yang lebih baik.",
+    "author": "Unknown"
+  },
+  {
+    "id": 59,
+    "text": "Pagi yang paling indah adalah ketika kamu bangun dengan senyuman dan semangat baru.",
+    "author": "Unknown"
+  },
+  {
+    "id": 60,
+    "text": "Hidup adalah petualangan yang berani atau tidak sama sekali.",
+    "author": "Helen Keller"
+  },
+  {
+    "id": 61,
+    "text": "Optimisme adalah iman yang mengarah pada prestasi. Tidak ada yang bisa dilakukan tanpa harapan dan keyakinan.",
+    "author": "Helen Keller"
+  },
+  {
+    "id": 62,
+    "text": "Karakter tidak bisa dikembangkan dengan mudah. Hanya melalui pengalaman dan penderitaan jiwa dapat diperkuat.",
+    "author": "Helen Keller"
+  },
+  {
+    "id": 63,
+    "text": "Hidup ini indah jika kamu tahu bagaimana menjalaninya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 64,
+    "text": "Cara terbaik untuk memprediksi masa depan adalah dengan menciptakannya.",
+    "author": "Peter Drucker"
+  },
+  {
+    "id": 65,
+    "text": "Kesuksesan adalah jumlah dari usaha kecil yang diulang hari demi hari.",
+    "author": "Robert Collier"
+  },
+  {
+    "id": 66,
+    "text": "Ketekunan gagal 19 kali dan berhasil pada yang ke-20.",
+    "author": "Julie Andrews"
+  },
+  {
+    "id": 67,
+    "text": "Hiduplah setiap hari seolah-olah itu adalah yang terakhir, dan suatu hari kamu pasti benar.",
+    "author": "Unknown"
+  },
+  {
+    "id": 68,
+    "text": "Jadilah seseorang yang membuatmu bahagia, bukan seseorang yang membuatmu terkesan.",
+    "author": "Unknown"
+  },
+  {
+    "id": 69,
+    "text": "Perubahan adalah hukum kehidupan. Mereka yang hanya melihat masa lalu atau sekarang pasti akan melewatkan masa depan.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "id": 70,
+    "text": "Kegagalan adalah kesempatan untuk memulai lagi dengan lebih cerdas.",
+    "author": "Henry Ford"
+  },
+  {
+    "id": 71,
+    "text": "Kamu tidak bisa menggunakan kreativitas. Semakin banyak kamu menggunakan, semakin banyak yang kamu miliki.",
+    "author": "Maya Angelou"
+  },
+  {
+    "id": 72,
+    "text": "Jadilah seperti burung yang terbang bebas. Jangan biarkan siapa pun mengurung mimpimu.",
+    "author": "Unknown"
+  },
+  {
+    "id": 73,
+    "text": "Rahasia untuk maju adalah memulai.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 74,
+    "text": "Hidup ini terlalu singkat untuk dihabiskan dengan hal-hal yang tidak penting.",
+    "author": "Unknown"
+  },
+  {
+    "id": 75,
+    "text": "Kesuksesan bukanlah tentang seberapa banyak uang yang kamu miliki, tapi tentang seberapa banyak perbedaan yang kamu buat.",
+    "author": "Unknown"
+  },
+  {
+    "id": 76,
+    "text": "Jadilah seperti matahari yang terus bersinar meskipun terkadang tertutup awan.",
+    "author": "Unknown"
+  },
+  {
+    "id": 77,
+    "text": "Hidup adalah tentang membuat keputusan. Jangan biarkan orang lain yang memutuskan untukmu.",
+    "author": "Unknown"
+  },
+  {
+    "id": 78,
+    "text": "Jangan menunggu kesempatan. Ciptakan sendiri.",
+    "author": "Unknown"
+  },
+  {
+    "id": 79,
+    "text": "Setiap orang adalah seniman. Lukislah hidupmu dengan warna-warna kebahagiaan.",
+    "author": "Unknown"
+  },
+  {
+    "id": 80,
+    "text": "Jangan pernah menyesali hari kemarin. Hari ini adalah kesempatan untuk membuat yang lebih baik.",
+    "author": "Unknown"
+  },
+  {
+    "id": 81,
+    "text": "Keberhasilan dimulai dari keberanian untuk mencoba.",
+    "author": "Unknown"
+  },
+  {
+    "id": 82,
+    "text": "Jangan biarkan rasa takut menghentikanmu. Rasa takut adalah tanda bahwa kamu sedang melangkah keluar dari zona nyaman.",
+    "author": "Unknown"
+  },
+  {
+    "id": 83,
+    "text": "Jadilah seperti air yang mengalir. Fleksibel dan tidak pernah berhenti.",
+    "author": "Bruce Lee"
+  },
+  {
+    "id": 84,
+    "text": "Hidup bukan tentang menunggu badai berlalu, tapi tentang belajar menari di tengah hujan.",
+    "author": "Vivian Greene"
+  },
+  {
+    "id": 85,
+    "text": "Kamu lebih kuat dari yang kamu kira, lebih berani dari yang kamu yakini, dan lebih pintar dari yang kamu bayangkan.",
+    "author": "A.A. Milne"
+  },
+  {
+    "id": 86,
+    "text": "Jangan takut untuk menjadi berbeda. Orang yang berbeda lah yang mengubah dunia.",
+    "author": "Unknown"
+  },
+  {
+    "id": 87,
+    "text": "Setiap masalah adalah hadiah. Tanpa masalah, kita tidak akan tumbuh.",
+    "author": "Unknown"
+  },
+  {
+    "id": 88,
+    "text": "Hiduplah dengan penuh semangat, seolah-olah setiap hari adalah hari terakhirmu.",
+    "author": "Unknown"
+  },
+  {
+    "id": 89,
+    "text": "Jadilah seperti pelangi yang muncul setelah hujan. Selalu ada keindahan setelah kesulitan.",
+    "author": "Unknown"
+  },
+  {
+    "id": 90,
+    "text": "Kamu tidak bisa mengubah arah angin, tapi kamu bisa mengatur layarmu.",
+    "author": "Unknown"
+  },
+  {
+    "id": 91,
+    "text": "Jangan pernah meremehkan kekuatan senyuman. Senyuman bisa mengubah segalanya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 92,
+    "text": "Kebahagiaan bukanlah tujuan, tapi perjalanan.",
+    "author": "Unknown"
+  },
+  {
+    "id": 93,
+    "text": "Jadilah seperti bintang yang bersinar di kegelapan.",
+    "author": "Unknown"
+  },
+  {
+    "id": 94,
+    "text": "Hidup adalah anugerah. Syukuri setiap detiknya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 95,
+    "text": "Jangan biarkan kesalahan masa lalu menghentikanmu untuk melangkah maju.",
+    "author": "Unknown"
+  },
+  {
+    "id": 96,
+    "text": "Setiap hari adalah lembaran baru. Tulislah cerita yang indah.",
+    "author": "Unknown"
+  },
+  {
+    "id": 97,
+    "text": "Kesabaran adalah kunci kebahagiaan. Semua akan indah pada waktunya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 98,
+    "text": "Jadilah seperti bunga matahari yang selalu menghadap ke cahaya.",
+    "author": "Unknown"
+  },
+  {
+    "id": 99,
+    "text": "Hidup adalah tentang memberi, bukan menerima.",
+    "author": "Unknown"
+  },
+  {
+    "id": 100,
+    "text": "Jangan pernah menyerah. Keajaiban terjadi setiap hari.",
+    "author": "Unknown"
+  }
+]
