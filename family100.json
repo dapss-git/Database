@@ -1,0 +1,418 @@
+[
+  {
+    "soal": "Sebutkan hewan yang bisa terbang",
+    "jawaban": ["Burung", "Kelelawar", "Kupu-kupu", "Capung", "Lebah", "Nyamuk"]
+  },
+  {
+    "soal": "Sebutkan merek mie instan yang kamu tahu",
+    "jawaban": ["Indomie", "Mie Sedap", "Supermi", "Sarinimi", "Pop Mie", "Gaga"]
+  },
+  {
+    "soal": "Sebutkan warna pelangi",
+    "jawaban": ["Merah", "Jingga", "Kuning", "Hijau", "Biru", "Ungu"]
+  },
+  {
+    "soal": "Sebutkan profesi yang bekerja di rumah sakit",
+    "jawaban": ["Dokter", "Perawat", "Apoteker", "Bidan", "Radiografer", "Cleaning Service"]
+  },
+  {
+    "soal": "Sebutkan aplikasi chat yang populer",
+    "jawaban": ["WhatsApp", "Telegram", "Line", "Messenger", "Discord", "WeChat"]
+  },
+  {
+    "soal": "Sebutkan buah yang berwarna kuning",
+    "jawaban": ["Pisang", "Nanas", "Jeruk", "Lemon", "Mangga", "Melon"]
+  },
+  {
+    "soal": "Sebutkan benda yang ada di dalam kelas",
+    "jawaban": ["Meja", "Kursi", "Papan Tulis", "Spidol", "Buku", "Penghapus"]
+  },
+  {
+    "soal": "Sebutkan superhero Marvel",
+    "jawaban": ["Spider-Man", "Iron Man", "Captain America", "Thor", "Hulk", "Black Widow"]
+  },
+  {
+    "soal": "Sebutkan makanan khas Indonesia",
+    "jawaban": ["Rendang", "Sate", "Nasi Goreng", "Gado-gado", "Soto", "Bakso"]
+  },
+  {
+    "soal": "Sebutkan alat transportasi umum",
+    "jawaban": ["Bus", "Kereta", "Angkot", "Ojek", "Taksi", "Pesawat"]
+  },
+  {
+    "soal": "Sebutkan nama-nama hari dalam seminggu",
+    "jawaban": ["Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"]
+  },
+  {
+    "soal": "Sebutkan minuman yang biasanya disajikan panas",
+    "jawaban": ["Kopi", "Teh", "Susu", "Wedang Jahe", "Coklat Panas", "Bandrek"]
+  },
+  {
+    "soal": "Sebutkan planet di tata surya",
+    "jawaban": ["Merkurius", "Venus", "Bumi", "Mars", "Jupiter", "Saturnus"]
+  },
+  {
+    "soal": "Sebutkan olahraga yang menggunakan bola",
+    "jawaban": ["Sepak Bola", "Basket", "Voli", "Tenis", "Bulu Tangkis", "Pingpong"]
+  },
+  {
+    "soal": "Sebutkan merek smartphone yang kamu tahu",
+    "jawaban": ["Samsung", "iPhone", "Xiaomi", "Oppo", "Vivo", "Realme"]
+  },
+  {
+    "soal": "Sebutkan kata yang berhubungan dengan cinta",
+    "jawaban": ["Sayang", "Kasih", "Pacar", "Hati", "Romantis", "Cium"]
+  },
+  {
+    "soal": "Sebutkan alat musik yang dipukul",
+    "jawaban": ["Drum", "Gendang", "Gong", "Xylophone", "Tamborin", "Kentongan"]
+  },
+  {
+    "soal": "Sebutkan nama ikan yang biasa dimakan",
+    "jawaban": ["Lele", "Nila", "Gurame", "Bandeng", "Kakap", "Salmon"]
+  },
+  {
+    "soal": "Sebutkan negara di Asia Tenggara",
+    "jawaban": ["Indonesia", "Malaysia", "Singapura", "Thailand", "Vietnam", "Filipina"]
+  },
+  {
+    "soal": "Sebutkan bumbu dapur yang kamu tahu",
+    "jawaban": ["Garam", "Gula", "Bawang Merah", "Bawang Putih", "Cabai", "Kecap"]
+  },
+  {
+    "soal": "Sebutkan anggota tubuh manusia",
+    "jawaban": ["Kepala", "Tangan", "Kaki", "Mata", "Hidung", "Mulut"]
+  },
+  {
+    "soal": "Sebutkan merek minuman bersoda",
+    "jawaban": ["Coca-Cola", "Sprite", "Fanta", "Pepsi", "Big Cola", "A&W"]
+  },
+  {
+    "soal": "Sebutkan pekerjaan yang menggunakan seragam",
+    "jawaban": ["Polisi", "Tentara", "Dokter", "Pilot", "Satpam", "Pramugari"]
+  },
+  {
+    "soal": "Sebutkan benda yang biasanya ada di kamar mandi",
+    "jawaban": ["Sabun", "Shampo", "Sikat Gigi", "Handuk", "Gayung", "Ember"]
+  },
+  {
+    "soal": "Sebutkan nama-nama bulan dalam setahun",
+    "jawaban": ["Januari", "Februari", "Maret", "April", "Mei", "Juni"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis cuaca",
+    "jawaban": ["Hujan", "Panas", "Mendung", "Berawan", "Badai", "Cerah"]
+  },
+  {
+    "soal": "Sebutkan media sosial yang kamu tahu",
+    "jawaban": ["Facebook", "Instagram", "TikTok", "Twitter", "YouTube", "Snapchat"]
+  },
+  {
+    "soal": "Sebutkan sayuran berwarna hijau",
+    "jawaban": ["Bayam", "Kangkung", "Sawi", "Brokoli", "Daun Singkong", "Selada"]
+  },
+  {
+    "soal": "Sebutkan nama-nama uang di Indonesia",
+    "jawaban": ["Rupiah", "Seribu", "Lima Ribu", "Sepuluh Ribu", "Lima Puluh Ribu", "Seratus Ribu"]
+  },
+  {
+    "soal": "Sebutkan alat elektronik di rumah",
+    "jawaban": ["TV", "Kulkas", "Mesin Cuci", "AC", "Kipas Angin", "Setrika"]
+  },
+  {
+    "soal": "Sebutkan film animasi Disney",
+    "jawaban": ["Frozen", "Moana", "Lion King", "Aladdin", "Mickey Mouse", "Snow White"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis tarian daerah Indonesia",
+    "jawaban": ["Jaipong", "Saman", "Kecak", "Piring", "Reog", "Serimpi"]
+  },
+  {
+    "soal": "Sebutkan alat tulis yang sering digunakan",
+    "jawaban": ["Pulpen", "Pensil", "Penghapus", "Penggaris", "Buku", "Spidol"]
+  },
+  {
+    "soal": "Sebutkan restoran cepat saji",
+    "jawaban": ["McDonald's", "KFC", "Burger King", "Pizza Hut", "Hoka-Hoka Bento", "A&W"]
+  },
+  {
+    "soal": "Sebutkan pahlawan nasional Indonesia",
+    "jawaban": ["Soekarno", "Hatta", "Sudirman", "Diponegoro", "Kartini", "Imam Bonjol"]
+  },
+  {
+    "soal": "Sebutkan kendaraan roda dua",
+    "jawaban": ["Motor", "Sepeda", "Skuter", "Vespa", "Becak Motor", "Sepeda Listrik"]
+  },
+  {
+    "soal": "Sebutkan peralatan masak",
+    "jawaban": ["Wajan", "Panci", "Pisau", "Kompor", "Spatula", "Talenan"]
+  },
+  {
+    "soal": "Sebutkan olahraga air",
+    "jawaban": ["Renang", "Selancar", "Dayung", "Polo Air", "Arung Jeram", "Ski Air"]
+  },
+  {
+    "soal": "Sebutkan band/musisi Indonesia",
+    "jawaban": ["Noah", "Sheila On 7", "Dewa 19", "Slank", "Iwan Fals", "Raisa"]
+  },
+  {
+    "soal": "Sebutkan tempat wisata di Bali",
+    "jawaban": ["Pantai Kuta", "Tanah Lot", "Ubud", "Bedugul", "Garuda Wisnu Kencana", "Nusa Dua"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis bunga",
+    "jawaban": ["Mawar", "Melati", "Anggrek", "Matahari", "Tulip", "Kamboja"]
+  },
+  {
+    "soal": "Sebutkan bahasa daerah di Indonesia",
+    "jawaban": ["Jawa", "Sunda", "Batak", "Minang", "Betawi", "Bugis"]
+  },
+  {
+    "soal": "Sebutkan game online populer",
+    "jawaban": ["Mobile Legends", "PUBG", "Free Fire", "Valorant", "Genshin Impact", "Dota 2"]
+  },
+  {
+    "soal": "Sebutkan hal yang dilakukan saat bangun tidur",
+    "jawaban": ["Mandi", "Sikat Gigi", "Cuci Muka", "Sarapan", "Sholat", "Lihat HP"]
+  },
+  {
+    "soal": "Sebutkan barang yang sering dibawa saat traveling",
+    "jawaban": ["Baju", "Handphone", "Dompet", "Charger", "Obat-obatan", "Kamera"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis kucing",
+    "jawaban": ["Persia", "Anggora", "Kampung", "Siam", "Bengal", "Sphynx"]
+  },
+  {
+    "soal": "Sebutkan tempat ibadah di Indonesia",
+    "jawaban": ["Masjid", "Gereja", "Pura", "Vihara", "Klenteng", "Langgar"]
+  },
+  {
+    "soal": "Sebutkan perabot rumah tangga",
+    "jawaban": ["Sofa", "Meja", "Kursi", "Lemari", "Kasur", "Rak"]
+  },
+  {
+    "soal": "Sebutkan sebutan untuk orang tua",
+    "jawaban": ["Ibu", "Ayah", "Bapak", "Mama", "Papa", "Emak"]
+  },
+  {
+    "soal": "Sebutkan makanan yang terbuat dari kedelai",
+    "jawaban": ["Tahu", "Tempe", "Susu Kedelai", "Kecap", "Oncom", "Taoco"]
+  },
+  {
+    "soal": "Sebutkan nama-nama pulau besar di Indonesia",
+    "jawaban": ["Jawa", "Sumatera", "Kalimantan", "Sulawesi", "Papua", "Bali"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis anjing",
+    "jawaban": ["Golden Retriever", "Pitbull", "Husky", "Poodle", "Bulldog", "Chihuahua"]
+  },
+  {
+    "soal": "Sebutkan lagu anak-anak",
+    "jawaban": ["Balonku", "Cicak di Dinding", "Naik Delman", "Pelangi", "Bintang Kecil", "Topi Saya Bundar"]
+  },
+  {
+    "soal": "Sebutkan jurusan kuliah yang populer",
+    "jawaban": ["Kedokteran", "Teknik", "Hukum", "Ekonomi", "Psikologi", "Ilmu Komputer"]
+  },
+  {
+    "soal": "Sebutkan situs belanja online",
+    "jawaban": ["Shopee", "Tokopedia", "Lazada", "Bukalapak", "Blibli", "Amazon"]
+  },
+  {
+    "soal": "Sebutkan profesi di dunia hiburan",
+    "jawaban": ["Aktor", "Penyanyi", "Presenter", "Pelawak", "Sutradara", "Model"]
+  },
+  {
+    "soal": "Sebutkan benda yang bentuknya bulat",
+    "jawaban": ["Bola", "Kelereng", "Telur", "Jam Dinding", "Uang Koin", "Cincin"]
+  },
+  {
+    "soal": "Sebutkan merek sepatu terkenal",
+    "jawaban": ["Nike", "Adidas", "Vans", "Converse", "New Balance", "Reebok"]
+  },
+  {
+    "soal": "Sebutkan tempat yang menjual makanan",
+    "jawaban": ["Warung", "Restoran", "Kantin", "Kaki Lima", "Pasar", "Supermarket"]
+  },
+  {
+    "soal": "Sebutkan perayaan hari besar di Indonesia",
+    "jawaban": ["Idul Fitri", "Natal", "Tahun Baru", "Kemerdekaan RI", "Idul Adha", "Imlek"]
+  },
+  {
+    "soal": "Sebutkan benda yang bisa menghasilkan suara",
+    "jawaban": ["Speaker", "Gitar", "Radio", "Bel", "Klason", "Peluit"]
+  },
+  {
+    "soal": "Sebutkan film Indonesia yang terkenal",
+    "jawaban": ["Warkop DKI", "Laskar Pelangi", "Ada Apa Dengan Cinta", "Pengabdi Setan", "Dilan", "KKN di Desa Penari"]
+  },
+  {
+    "soal": "Sebutkan rasa es krim",
+    "jawaban": ["Coklat", "Vanilla", "Stroberi", "Matcha", "Durian", "Kopi"]
+  },
+  {
+    "soal": "Sebutkan kegiatan saat akhir pekan",
+    "jawaban": ["Jalan-jalan", "Nonton", "Istirahat", "Olahraga", "Berkumpul Keluarga", "Belanja"]
+  },
+  {
+    "soal": "Sebutkan karakter kartun Jepang",
+    "jawaban": ["Doraemon", "Naruto", "Luffy", "Goku", "Sailor Moon", "Conan"]
+  },
+  {
+    "soal": "Sebutkan benda yang biasanya ada di dapur",
+    "jawaban": ["Kompor", "Piring", "Sendok", "Gelas", "Wajan", "Pisau"]
+  },
+  {
+    "soal": "Sebutkan hewan buas",
+    "jawaban": ["Harimau", "Singa", "Buaya", "Beruang", "Serigala", "Hiu"]
+  },
+  {
+    "soal": "Sebutkan aplikasi edit foto",
+    "jawaban": ["PicsArt", "Lightroom", "Snapseed", "VSCO", "Canva", "Photoshop"]
+  },
+  {
+    "soal": "Sebutkan nama-nama benua",
+    "jawaban": ["Asia", "Afrika", "Eropa", "Amerika", "Australia", "Antartika"]
+  },
+  {
+    "soal": "Sebutkan hobi yang umum dilakukan",
+    "jawaban": ["Membaca", "Olahraga", "Menulis", "Memasak", "Berkebun", "Fotografi"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis sambal",
+    "jawaban": ["Sambal Terasi", "Sambal Bawang", "Sambal Matah", "Sambal Ijo", "Sambal Kecap", "Sambal Tomat"]
+  },
+  {
+    "soal": "Sebutkan alasan telat ke sekolah",
+    "jawaban": ["Macet", "Bangun Kesiangan", "Hujan", "Motor Mogok", "Sakit", "Nunggu Angkutan"]
+  },
+  {
+    "soal": "Sebutkan tempat yang sering macet",
+    "jawaban": ["Jakarta", "Surabaya", "Bandung", "Medan", "Semarang", "Makassar"]
+  },
+  {
+    "soal": "Sebutkan hewan yang hidup di air",
+    "jawaban": ["Ikan", "Udang", "Kepiting", "Cumi", "Paus", "Lumba-lumba"]
+  },
+  {
+    "soal": "Sebutkan profesi yang berhubungan dengan api",
+    "jawaban": ["Pemadam Kebakaran", "Koki", "Tukang Bakso", "Pandai Besi", "Juru Las", "Pembakar Sampah"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis kopi",
+    "jawaban": ["Kopi Hitam", "Cappuccino", "Latte", "Espresso", "Americano", "Kopi Susu"]
+  },
+  {
+    "soal": "Sebutkan peralatan pertukangan",
+    "jawaban": ["Palu", "Obeng", "Gergaji", "Bor", "Tang", "Meteran"]
+  },
+  {
+    "soal": "Sebutkan nama-nama gunung di Indonesia",
+    "jawaban": ["Semeru", "Merapi", "Rinjani", "Bromo", "Kerinci", "Gede"]
+  },
+  {
+    "soal": "Sebutkan penyebab sakit perut",
+    "jawaban": ["Makan Pedas", "Kebanyakan Makan", "Makanan Asam", "Maag", "Keracunan", "Telat Makan"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis roti",
+    "jawaban": ["Roti Tawar", "Roti Manis", "Croissant", "Bagel", "Donat", "Baguette"]
+  },
+  {
+    "soal": "Sebutkan yang biasa ada di warung",
+    "jawaban": ["Indomie", "Rokok", "Telur", "Sabun", "Beras", "Kopi"]
+  },
+  {
+    "soal": "Sebutkan kata-kata motivasi",
+    "jawaban": ["Semangat", "Jangan Menyerah", "Pantang Mundur", "Kamu Bisa", "Tetap Kuat", "Sukses"]
+  },
+  {
+    "soal": "Sebutkan bagian dari sepeda motor",
+    "jawaban": ["Ban", "Mesin", "Setang", "Lampu", "Rem", "Knalpot"]
+  },
+  {
+    "soal": "Sebutkan jenis-jenis jus buah",
+    "jawaban": ["Jus Alpukat", "Jus Mangga", "Jus Jeruk", "Jus Stroberi", "Jus Jambu", "Jus Apel"]
+  },
+  {
+    "soal": "Sebutkan alat kebersihan",
+    "jawaban": ["Sapu", "Pel", "Kemoceng", "Vacuum Cleaner", "Lap", "Sikat"]
+  },
+  {
+    "soal": "Sebutkan website untuk nonton video",
+    "jawaban": ["YouTube", "TikTok", "Netflix", "Vidio", "Instagram", "Twitter"]
+  },
+  {
+    "soal": "Sebutkan permainan tradisional Indonesia",
+    "jawaban": ["Congklak", "Petak Umpet", "Lompat Tali", "Gobak Sodor", "Engklek", "Gasing"]
+  },
+  {
+    "soal": "Sebutkan bumbu untuk membuat rendang",
+    "jawaban": ["Santan", "Cabai", "Bawang", "Lengkuas", "Kunyit", "Serai"]
+  },
+  {
+    "soal": "Sebutkan YouTuber Indonesia",
+    "jawaban": ["Deddy Corbuzier", "Raditya Dika", "Ria Ricis", "Atta Halilintar", "Nessie Judge", "Baim Paula"]
+  },
+  {
+    "soal": "Sebutkan yang dijual di pasar tradisional",
+    "jawaban": ["Sayur", "Ikan", "Daging", "Buah", "Bumbu", "Kelontong"]
+  },
+  {
+    "soal": "Sebutkan penyebab banjir",
+    "jawaban": ["Hujan Lebat", "Sampah", "Selokan Tersumbat", "Penggundulan Hutan", "Lahan Betonisasi", "Pasang Laut"]
+  },
+  {
+    "soal": "Sebutkan yang bisa ditemukan di pantai",
+    "jawaban": ["Pasir", "Air Laut", "Ombak", "Kerang", "Pohon Kelapa", "Perahu"]
+  },
+  {
+    "soal": "Sebutkan pelajaran di sekolah",
+    "jawaban": ["Matematika", "Bahasa Indonesia", "IPA", "IPS", "Bahasa Inggris", "Olahraga"]
+  },
+  {
+    "soal": "Sebutkan aktor Indonesia",
+    "jawaban": ["Reza Rahadian", "Vino G Bastian", "Joe Taslim", "Iko Uwais", "Abimana Aryasatya", "Chicco Jerikho"]
+  },
+  {
+    "soal": "Sebutkan manfaat olahraga",
+    "jawaban": ["Sehat", "Bugar", "Menurunkan Berat Badan", "Menguatkan Otot", "Menghilangkan Stres", "Meningkatkan Imun"]
+  },
+  {
+    "soal": "Sebutkan artis dangdut Indonesia",
+    "jawaban": ["Rhoma Irama", "Inul Daratista", "Via Vallen", "Ayu Ting Ting", "Zaskia Gotik", "Erie Suzan"]
+  },
+  {
+    "soal": "Sebutkan merek sabun mandi",
+    "jawaban": ["Lifebuoy", "Lux", "Dove", "Shinzu'i", "Nuvo", "Biore"]
+  },
+  {
+    "soal": "Sebutkan sayuran untuk membuat sop",
+    "jawaban": ["Wortel", "Kentang", "Kol", "Buncis", "Daun Bawang", "Seledri"]
+  },
+  {
+    "soal": "Sebutkan olahraga bela diri",
+    "jawaban": ["Karate", "Taekwondo", "Pencak Silat", "Judo", "Tinju", "Muay Thai"]
+  },
+  {
+    "soal": "Sebutkan bagian dari komputer",
+    "jawaban": ["Monitor", "Keyboard", "Mouse", "CPU", "Speaker", "Printer"]
+  },
+  {
+    "soal": "Sebutkan merek mobil Jepang",
+    "jawaban": ["Toyota", "Honda", "Suzuki", "Mitsubishi", "Daihatsu", "Mazda"]
+  },
+  {
+    "soal": "Sebutkan tempat nongkrong anak muda",
+    "jawaban": ["Kafe", "Mall", "Angkringan", "Taman Kota", "Alun-alun", "Pantai"]
+  },
+  {
+    "soal": "Sebutkan aplikasi transportasi online",
+    "jawaban": ["Gojek", "Grab", "Maxim", "InDrive", "Uber", "Anterin"]
+  },
+  {
+    "soal": "Sebutkan nama-nama samudra",
+    "jawaban": ["Pasifik", "Hindia", "Atlantik", "Arktik", "Antartika", "Samudra Selatan"]
+  }
+]
